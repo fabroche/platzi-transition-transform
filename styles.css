@@ -1,0 +1,19 @@
+a:link {
+    color: darkblue;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    background-color: rgba(139, 0, 0, 0.45);
+}
+
+p:not(.maravillas) {
+    color: lightsalmon;
+}
+
+.container div:nth-child(1) {
+    color: lightgreen;
+}
